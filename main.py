@@ -16,6 +16,9 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 print("""\
+     Electric Transportation Network Simulator - ETNS
+- A simulator for electric guided transportation networks -
+
 Copyright (C) 2016 Alexandre Robert de Massy <alex.demassy@gmail.com>
 This program comes with ABSOLUTELY NO WARRANTY.
 This is free software, and you are welcome to redistribute it
